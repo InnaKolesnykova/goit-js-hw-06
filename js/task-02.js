@@ -1,3 +1,4 @@
+
 const ingredients = [
   'Potatoes',
   'Mushrooms',
@@ -6,7 +7,6 @@ const ingredients = [
   'Herbs',
   'Condiments',
 ];
-
 
 const list = document.querySelector('#ingredients');
 const fragment = document.createDocumentFragment();
